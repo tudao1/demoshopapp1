@@ -1,45 +1,22 @@
-# Flutter E-Commerce App Template
+Chức Năng của Ứng Dụng Shopping:
 
- If you want to learn how to build this ecommerce template on Flutter [watch the playlist on YouTube](https://youtube.com/playlist?list=PLxUBb2A_UUy8OlaNZpS2mfL8xpHcnd_Af), In the first video, we start by making a neat onboarding screen for our shopping app. This works on both Android and iOS because it's made with Flutter. In the next video, we tackle the 'Sign In' and 'Forgot Password' screens, adding some unique error messages. The third video covers the 'Sign Up' and OTP processes. The fourth one is fun – we create the main homepage. In the fifth, we dive into the product page, and in the sixth, we craft an order page with cool features like 'swipe to delete.' Finally, in the seventh video, we design the user profile page.
+1. Xem Sản Phẩm:
 
-Visit FlutterLibrary.com to Download the [Flutter e-commerce app template](https://www.flutterlibrary.com/templates/e-commerce-app) & other templates, and components.
+Hiển thị danh sách sản phẩm với hình ảnh, giá cả, và mô tả.
+Tìm kiếm và lọc sản phẩm dựa trên các tiêu chí như loại, thương hiệu, giá, đánh giá, và nhiều yếu tố khác.
+2.Thêm Vào Giỏ Hàng:
 
+Cho phép người dùng thêm sản phẩm vào giỏ hàng của họ.
+Hiển thị tổng giá trị của giỏ hàng.
+3.  Thanh Toán và Đặt Hàng:
 
-### Video Preview of the Shop template
+Cung cấp nhiều phương thức thanh toán an toàn và thuận tiện.
+Cho phép người dùng xem lại và chỉnh sửa đơn hàng trước khi xác nhận mua hàng.
+4. Quản Lý Đơn Hàng:
 
-![Preview](/intro.gif)
+Hiển thị thông tin chi tiết về đơn hàng sau khi được đặt.
+Cập nhật trạng thái đơn hàng và cung cấp thông báo vận chuyển.
+5. Tài Khoản Người Dùng:
 
-## Screens it contains:
-
-=> Onboarding
-
-=> Login
-
-=> Forgot Password
-
-=> Sign Up
-
-=> Complete Profile
-
-=> OTP Verification
-
-=> Home Page
-
-=> Product Details
-
-=> Order
-
-=> Profile (added)
-
-=> Bottom Navigation Bar (added)
-
-Now it contains all the screen, thanks for your love and support 🙏 
-
-## Photos
-![Preview](/1.png)
-![Preview](2.png)
-![Preview](3.png)
-![Preview](4.png)
-![Preview](5.png)
-![Preview](6.png)
-![Preview](7.png)
+Cho phép người dùng đăng ký và đăng nhập vào tài khoản cá nhân.
+Lưu trữ thông tin địa chỉ và lịch sử đơn hàng của người dùng.
